@@ -1,12 +1,21 @@
-Hi 👋
+# Hi there 👋
 
-I'm Narendra, a Software Engineer.
+I'm **Narendra**, a Software Engineer.
 
-Languages & Tools
+## Languages
 
-[ Java ] [ Spring ] [ React ] [ Git ] [ GitHub ] [ MySQL ] [ Linux ] ...
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql" />
+</p>
 
-Currently
-• Building Java Full Stack Applications
-• Learning Spring Boot & System Design
-• Open to collaborating on Open Source
+## Frameworks & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,spring" />
+</p>
+
+## Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
