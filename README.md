@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Narendra**, a Software Engineer.
+I'm **Narendra⚡**, a Software Engineer.
 
 ## Languages & Tools
 
