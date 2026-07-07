@@ -1,31 +1,12 @@
-# Hi there 👋
+Hi 👋
 
-```txt
-Name      : Narendra R Giriyappanavar
-Role      : Java Full Stack Developer
-Location  : Belagavi, Karnataka
-Education : B.E. (ECE)
-```
+I'm Narendra, a Software Engineer.
 
-## Languages & Tools
+Languages & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,html,css,js,react,git,github,mysql,linux,vscode" />
-</p>
+[ Java ] [ Spring ] [ React ] [ Git ] [ GitHub ] [ MySQL ] [ Linux ] ...
 
-## About
-
-I'm an Electronics & Communication Engineering student passionate about
-building scalable web applications and solving real-world problems using Java.
-
-Currently exploring:
-- Spring Boot
-- Backend Development
-- React Ecosystem
-- IoT
-
-## Connect
-
-- 📧 narenrg07@gmail.com
-- 💼 LinkedIn
-- 🐙 GitHub: **Naren757**
+Currently
+• Building Java Full Stack Applications
+• Learning Spring Boot & System Design
+• Open to collaborating on Open Source
